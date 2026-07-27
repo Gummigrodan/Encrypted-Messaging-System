@@ -27,3 +27,7 @@ reader to decrypt it multiple times.
 Im planning to make this project into an electronics device so you dont have to use monitored
 apps to send the messages. Then to read the messages you would need the right Encryption software
 AND a radio signal deciver with the right frequency.
+
+## For more informations about the building process
+
+Head to: https://www.tiktok.com/@mrgurratech/video/7666939887056358679?q=mrgurratech&t=1785192668684
